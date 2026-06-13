@@ -61,6 +61,39 @@ A colony with a low percentage of tipped cats may indicate:
 
 By monitoring ear-tip prevalence over time, organizations can estimate whether a colony is becoming more stable or whether additional trapping efforts may be required.
 
+## Why TNR Percentage Matters
+
+One of the strongest indicators of colony stability is the percentage of cats that have already been sterilized through Trap-Neuter-Return (TNR) programs.
+
+Research and field experience have shown that cat populations generally begin to stabilize when a sufficiently large percentage of the colony has been sterilized. While exact thresholds vary between environments, many TNR programs target sterilization rates of 70–80% or higher.
+
+A colony with a high proportion of ear-tipped cats often suggests:
+
+* Effective TNR coverage
+* Reduced kitten births
+* Slower population growth
+* Lower shelter intake pressure
+* Improved allocation of volunteer resources
+
+Conversely, a colony with a low proportion of ear-tipped cats may indicate:
+
+* Active reproduction
+* New arrivals from surrounding areas
+* Incomplete TNR coverage
+* Increased future trapping requirements
+
+Because ear tipping serves as a visible marker of sterilization status, automated monitoring of tipped versus untipped cats can provide a practical proxy for colony health.
+
+Over time, repeated observations can help answer questions such as:
+
+* Is the colony growing or stabilizing?
+* Are new unsterilized cats entering the population?
+* Are TNR efforts achieving sufficient coverage?
+* Which colonies should be prioritized for future interventions?
+
+Rather than relying solely on manual surveys, computer vision systems may eventually provide a scalable way to estimate sterilization coverage and identify colonies that would benefit most from additional TNR efforts.
+
+
 ---
 
 ## Project Goals
