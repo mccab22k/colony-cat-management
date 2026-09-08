@@ -14,7 +14,7 @@ Colony Cat Management grew out of my graduate-school work around image processin
 
 ## Background
 
-This project combines work from two different stages of my academic career.
+This project combines work from two different stages of my academic career. Started at NYU for ML
 
 As an undergraduate studying Computer Science, I worked on image processing and object identification problems involving high-speed particle tracking from video. Those projects required extracting useful information from noisy imagery, identifying edges and features, selecting high-quality frames, and tracking objects across time.
 
