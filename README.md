@@ -4,6 +4,14 @@ Using computer vision and machine learning to support Trap-Neuter-Return (TNR) p
 
 ---
 
+## Project History
+
+**Origin:** graduate-school-era machine-learning/computer-vision work
+
+Colony Cat Management grew out of my graduate-school work around image processing, model experimentation, and visual classification. This repository continues that line of work for community-cat colony management, with a focus on TNR ear-tip classification, dataset preparation, inference, and caretaker-facing review.
+
+---
+
 ## Background
 
 This project combines work from two different stages of my academic career.
